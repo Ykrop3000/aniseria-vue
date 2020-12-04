@@ -1,0 +1,14 @@
+@font-face {
+ font-family: "FontAwesome";
+ src: url("~@/assets/fonts/fontawesome-webfont.woff") format("woff"),
+        url("~@/assets/fonts/fontawesome-webfont.woff2") format("woff2");
+}
+@font-face {
+ font-family: "RobotoCondensed";
+ src: url("~@/assets/fonts/RobotoCondensed-Regular.ttf") format("ttf"),
+}
+@font-face {
+        font-family: "Segoe-UI";
+        src: url("~@/assets/fonts/Segoe-UI.ttf") format("ttf"),
+}
+       
